@@ -1,0 +1,24 @@
+{
+  "name": "cheerio-web_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infiniteoo/cheerio-web_scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infiniteoo/cheerio-web_scraping/issues"
+  },
+  "homepage": "https://github.com/infiniteoo/cheerio-web_scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "request": "^2.88.2"
+  }
+}
